@@ -1,4 +1,5 @@
-
+require_relative '../square_array'
+require_relative '../square_array'
 
 describe '#square_array' do
 
